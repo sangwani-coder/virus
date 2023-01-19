@@ -18,7 +18,11 @@ Since python is an interpreted language, its not the best language to write a vi
 |funtion			| description
 |-------------------------------|----------------------------|
 |**find_files_to_infect()** |the function will return the list of files that can be infected and for each file returned, the virus will spread the infection.|
-|**chisokonezo()**| The payload function with the malicious code|
+|**summon_chaos()**| The payload function with the malicious code|
+
+**Testing the virus**
+
+Put the virus in a directory with just another _.py_ file.
 
 ## Chisokonezo-2
 
